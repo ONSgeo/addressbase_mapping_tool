@@ -7,5 +7,4 @@ Open mapping_tool.ipynb in Jupyter Notebook. It has been set up with some sample
 
 This was made by [Samantha Iacob](mailto:samantha.iacob@ons.gov.uk) as part of her apprenticeship rotation through the ONS Geospatial team in DALI.
 
-
-
+More of her projects are available on her [ONS GitHub](https://github.com/SamanthaIacobONS) 😊
